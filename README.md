@@ -1,5 +1,6 @@
 # msheriff.com
 
+```
 sudo su
 apt-get install nginx
 cd /root/
@@ -10,3 +11,4 @@ copy file from github.com/scriptmaster/msheriff.com/sites-enabled/* sites-enable
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
+```
